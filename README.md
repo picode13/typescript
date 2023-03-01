@@ -1,4 +1,4 @@
 # typescript
 
 
-xd
+xd.
