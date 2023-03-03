@@ -1,3 +1,4 @@
 # typescript
 
 gg
+cd types
